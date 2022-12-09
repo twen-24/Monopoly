@@ -1,0 +1,21 @@
+
+/*
+class Board {
+    Place[] board;
+    PImage img;
+    img = loadImage(monopolyBoard.png);
+    
+    Board() {
+        board = new Place[];
+        board.add(Place.new("place1",type));
+        board.add(Place.new("place2",type));
+        board.add(Place.new("place3",type));
+    }
+
+    void drawBoard() {
+        image(img, 0, 0);
+    }
+    
+}
+
+*/

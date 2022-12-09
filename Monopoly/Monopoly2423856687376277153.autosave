@@ -1,0 +1,14 @@
+//Board board;
+
+void setup() {
+    size(1024, 1000);
+    PImage img;
+    img = loadImage("monopolyBoard.png");
+    image(img, 0, 0);
+}
+
+void mouseClicked() {
+    //roll dice
+    //move player on board
+    
+}

@@ -1,0 +1,18 @@
+class Board {
+    ArrayList<Place> board;
+    PImage img;
+    
+    Board() {
+        board = new Place[40];
+        img = loadImage("monopolyBoard.png");
+        //type of place is prop, cc (community chest), chance, start, jail, empty
+        board.add(Place.new("place1",type));
+        board.add(Place.new("place2",type));
+        board.add(Place.new("place3",type));
+    }
+
+    void drawBoard() {
+        image(img, 0, 0);
+    }
+    
+}

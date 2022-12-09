@@ -1,0 +1,8 @@
+class Board {
+    PImage img;
+    
+    void drawBoard() {
+      img = loadImage(monopolyBoard.jpg);
+      image(img, 0, 0);
+    }
+}

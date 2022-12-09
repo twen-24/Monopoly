@@ -1,0 +1,12 @@
+Board board;
+
+void setup() {
+    size(1000,1000);
+    PImage img;
+    img = loadImage("monopolyBoard.jpg");
+    image(img, 0, 0);
+}
+
+void mouseClicked() {
+
+}

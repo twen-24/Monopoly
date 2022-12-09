@@ -1,0 +1,9 @@
+class Dice {
+    //default constructor
+    Dice() {
+    }
+
+    int getDice1() {
+        return int(random(1, 6));
+    }
+}
