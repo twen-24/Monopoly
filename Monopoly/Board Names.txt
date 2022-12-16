@@ -55,7 +55,8 @@ You buy homecoming tickets. Pay $20.
 Doc gives you food. Pay $50.
 You have won second place prize in a costume contest. Collect $10. <PMS looks down at you from the podium, weaing plastic bags.>
 
-
 2 Utilities:
 Peddie Security
 Peddie Food Service
+
+hi
