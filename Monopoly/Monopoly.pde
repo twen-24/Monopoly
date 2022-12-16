@@ -32,4 +32,4 @@ void mouseClicked() {
     //switch turn at the end of player's turn
     //if player rolled doubles, go again
     if (!(dice.getDV1() == dice.getDV2())) turn = -turn;
-}
+}  
