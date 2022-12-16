@@ -1,6 +1,3 @@
-Swetland
-Roberson Hall
-Coates-Coleman
 Austen-Colgate
 Coleman
 Trask
@@ -13,20 +10,52 @@ Potter North
 Green
 Kaye
 Longstreet
-Yu Center
 Health Center
 Athletic Center
-Geiger Reeves
+Geiger Reeves Theater 
 Swig Arts Center
-Ding Music Hall
 Izzo Design Lab
-History House
-Science Center
-Student Center
-Chapel
+Caspersen History House
+Annenberg Science Center
+Caspersen Student Center
+Ayer Memorial Chapel
 Annenberg Hall
 
-"Railroads"
+4 roads Needed:
+South Main Street
+Etra Road
+East Ward Street
+Armellino Court
+
+2 Taxes Needed:
+Go to Dean's Office
+You Received an MO
+
+chance Cards:
+Advance to The Gate (start). Collect from start if needed. 
+Advance to Austen Colgate. Collect from start if needed. 
+Advance to Potter South. Collect from start if needed. 
+Advance to nearest road. If unowned, you may buy it from the Bank. If owned, pay owner twice the price to which they are otherwise entitled. Collect from start if needed. 
+Get out of Saturday Night Study Hall Free.
+Go to Saturday Night Study Hall (Do not pass start).
+Go Back Three Spaces.
+Go to Dean's Office and pay accordingly.
+Make general repairs on all your property: pay $25 per house, $100 per hotel.
 
 
-Utility
+CC Cards (pay or collect):
+Financial Aid. Collect $200. <You get what you're worth.>
+Buy a book for class. Pay $50. <You didn't use Peddie Book Exchange.>
+You sold a book on Peddie Book Exchange. Collect $30.
+Get out of Saturday Night Study Hall Free.
+Go to Saturday Night Study Hall.
+Homecoming Night. Collect $20 from every player.
+You receive funding for your club's SNA event. collect $200.
+You buy homecoming tickets. Pay $20.
+Doc gives you food. Pay $50.
+You have won second place prize in a costume contest. Collect $10. <PMS looks down at you from the podium, weaing plastic bags.>
+
+
+2 Utilities:
+Peddie Security
+Peddie Food Service
